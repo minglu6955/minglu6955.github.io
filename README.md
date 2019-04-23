@@ -1,10 +1,11 @@
-Template source: https://themewagon.com/themes/free-html5-personal-landing-page-template-noah/
+Template source: [Link](https://themewagon.com/themes/free-html5-personal-landing-page-template-noah/)
 
-­×§ï»¡©ú¡G
-1.­¶ÅÒLOGO·s¼W
-2.¥~³¡³sµ²¬Ò§ï¬°¥t¥~¶}±Ò·sµøµ¡
-3.Äæ¦ì¤Ø¤o»Pª©«¬ÅÜ§ó
-4.²M³æÀ³¥Î¡]¥]§t¨Ï¥Î½s¸¹»P¶µ¥Ø²Å¸¹¡^
-5.À³¥Îªí®æ»s§@®Ø½u
-6.¦rÅéhover§ïÃC¦â
-7.nav¶µ¥Ø»P§Ç¦C­×§ï
+
+**ä¿®æ”¹èªªæ˜ï¼š**
+1.é ç±¤LOGOæ–°å¢
+2.å¤–éƒ¨é€£çµçš†æ”¹ç‚ºå¦å¤–é–‹å•Ÿæ–°è¦–çª—
+3.æ¬„ä½å°ºå¯¸èˆ‡ç‰ˆå‹è®Šæ›´
+4.æ¸…å–®æ‡‰ç”¨ï¼ˆåŒ…å«ä½¿ç”¨ç·¨è™Ÿèˆ‡é …ç›®ç¬¦è™Ÿï¼‰
+5.æ‡‰ç”¨è¡¨æ ¼è£½ä½œæ¡†ç·š
+6.å­—é«”hoveræ”¹é¡è‰²
+7.navé …ç›®èˆ‡åºåˆ—ä¿®æ”¹
