@@ -1,4 +1,5 @@
 **Template source:** [Link](https://themewagon.com/themes/free-html5-personal-landing-page-template-noah/)
+
 **設計說明：**
 由於我的經驗以研究為主，希望呈現出學術研究的專業感，因此選擇中性色為基調的模板。內容上以文字為主，所以搭配與研究主題相關連且品質較高的主題圖片、hover動畫可讓網頁增添質感與變化。而清單的應用使得文字內容更為整潔。
 
