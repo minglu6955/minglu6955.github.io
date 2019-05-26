@@ -1,14 +1,14 @@
-�]�p�����G�H�D��ı�Ӥ���y������P�P�ξA�P�A�t��²��H�Y��ӫ~���״I�ʻP��P�C
+**設計說明：**以主視覺照片營造網頁質感與舒適感，配色簡潔以凸顯商品的豐富性與質感。
 
-�W�׻����G
+**增修說明：**
 
-1.���D�G��r�C���ܴ��ĪG�A�I���C����C
-2.�D��ı�G�W�[�Ϥ���y������P�B�۾A���C
-3.�����I���G�W�[�Ϥ��éT�w�I���B�۾A���C
-4.���s�G�ק��C��B�ؤo�B�r���Bhover�ĪG�C
-5.�ӫ~�G�ק�I���C��B�վ�margin�B�r���B�r���C��B��r�_��(�p�ĤT��)�Bhover�ĪG�C
-6.�����G�վ�margin�B�ؽu���סB�r���C��Bhover�ĪG�C
-7.Footer�G�W�[�éT�w�Ϥ��A��������I�����Pı�C�H�έק��r�C
-8.�d�߭����G�קﶵ�ئp�P�e�z7���A�t�~�վ��J�檺margin�B�r���B�r���C��C
+1. 標題：文字顏色變換效果，背景顏色更改。
+2. 主視覺：增加圖片營造網頁質感、自適應。
+3. 網頁背景：增加圖片並固定背景、自適應。
+4. 按鈕：修改顏色、尺寸、字型、hover效果。
+5. 商品：修改背景顏色、調整margin、字型、字型顏色、文字斷行(如第三頁)、hover效果。
+6. 分頁：調整margin、框線弧度、字型顏色、hover效果。
+7. Footer：增加並固定圖片，延續網頁背景的感覺。以及修改文字。
+8. 查詢頁面：修改項目如同前述7項，另外調整輸入欄的margin、字型、字型顏色。
 
-���¦Ѯv���U�СI
+**謝謝老師＆助教！**
