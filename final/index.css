@@ -1,0 +1,91 @@
+body {
+    font-family: "Karla", Arial, sans-serif;
+    line-height: 1.8;
+    font-size: 16px;
+    font-weight: 400;
+    background-image: url(https://cdn.pixabay.com/photo/2017/05/07/08/28/composing-2291900_1280.jpg);
+    color: gray;
+}
+
+.row {
+    color: #f7f7f8;
+    text-align: inherit;
+    background-color: #8f8ff13d;
+    margin: 4%;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-family: monospace;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    color: #313131;
+    font-size: 40px;
+    font-weight: bold;
+    -webkit-animation: colorchange 10s infinite alternate;
+}
+
+@-webkit-keyframes colorchange {
+    0% {
+        color: rgb(34, 100, 241);
+    }
+    10% {
+        color: #6494af;
+    }
+    20% {
+        color: #6e9680;
+    }
+    30% {
+        color: #8ec7c9;
+    }
+    40% {
+        color: rgb(197, 153, 182);
+    }
+    50% {
+        color: #8fd68c;
+    }
+    60% {
+        color: rgb(137, 181, 187);
+    }
+    70% {
+        color: #dacef1;
+    }
+    80% {
+        color: #b6c211;
+    }
+    90% {
+        color: #47c99e;
+    }
+    100% {
+        color: rgb(194, 150, 157);
+    }
+}
+
+.btn {
+    font-family: Microsoft JhengHei;
+    font-size: 35px;
+    color: #f8f5fa;
+    background: #f1f0f0;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
+
+.btn:hover {
+    color: #ffffff;
+    background-color: #f5e509cc;
+    transition-delay: 0s;
+    transition-duration: 0.2s;
+    transition-property: all;
+    transition-timing-function: linear;
+}
+
+.row-function {
+    text-align: center;
+}
+
+.text-center {
+    color: rgb(231, 230, 230);
+    text-align: center;
+}
